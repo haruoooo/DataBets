@@ -1,0 +1,40 @@
+Bets User Tracker
+ - Sistema para rastreamento de ações de usuários dentro da plataforma Betano, com foco em registro de apostas e captura do saldo pós-aposta.
+
+Funcionalidades
+ - Rastreia cliques no botão "Apostar"
+ - Captura o saldo atualizado após a aposta diretamente do DOM
+ - Salva os dados localmente em logs/registros.json
+ - Estrutura modular com back-end em Flask e front-end em extensão Chrome
+
+Como executar
+ - 1. Clone o projeto
+   git clone https://github.com/haruoooo/databets
+   cd databets
+ 
+ - 2. Crie e ative o ambiente virtual
+   python -m venv venv
+   .\venv\Scripts\activate  # Para Windows
+
+ - 3. Instale as dependências
+   pip install -r requirements.txt
+
+ - 4. Rode o servidor Flask
+   python main.py
+
+Como usar a extensão
+ - Acesse chrome://extensions/ no navegador Google Chrome
+ - Ative o Modo de Desenvolvedor
+ - Clique em "Carregar sem compactação"
+ - Selecione a pasta frontend/ do projeto
+
+Tecnologias utilizadas
+ - Python + Flask
+ - JavaScript (DOM, ShadowRoot)
+ - Extensões do Chrome
+ - JSON local
+
+Aviso Legal
+ - Este projeto tem fins educacionais e de prototipação técnica.
+ - Não é destinado a automações que violem os termos de uso de qualquer plataforma de apostas.
+
