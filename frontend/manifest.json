@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Rastreador de Apostas - Betano",
+  "version": "1.0",
+  "description": "Captura cliques em botões de aposta e o saldo do usuário no Betano",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
