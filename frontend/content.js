@@ -1,6 +1,6 @@
 const palavrasChave = ["apost", "aposta", "apostar", "fazer aposta", "bet"];
 const API_BACKEND = "http://localhost:5000/clique";
-const TEMPO_ATUALIZACAO_SALDO_MS = 1000;
+const TEMPO_ATUALIZACAO_SALDO_MS = 2000;
 
 function contemPalavraChave(texto) {
     return palavrasChave.some(p => texto.includes(p));
@@ -32,11 +32,19 @@ window.addEventListener("load", () => {
         setTimeout(() => {
             const saldo = buscarSaldo();
 
+            const oddEl = document.querySelector('[data-qa="bet-odds-value"]');
+            const odd = oddEl ? parseFloat(oddEl.innerText.replace(",", ".").trim()) : null;
+
+            const timeEl = document.querySelector('[data-qa="selection-label"]');
+            const time = timeEl ? timeEl.innerText.trim() : null;
+                
             const evento = {
                 Executado: "Aposta Feita",
                 valorAposta: texto.trim(),
                 SaldoAtt: saldo,
-                url: window.location.href
+                url: window.location.href,
+                timeApostado: time,
+                oddSelecionada: odd
             };
 
             fetch(API_BACKEND, {
@@ -47,5 +55,6 @@ window.addEventListener("load", () => {
 
             console.log("[INFO] Evento registrado:", evento);
         }, TEMPO_ATUALIZACAO_SALDO_MS);
+
     });
 });
