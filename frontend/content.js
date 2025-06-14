@@ -6,19 +6,6 @@ function contemPalavraChave(texto) {
     return palavrasChave.some(p => texto.includes(p));
 }
 
-function buscarSaldo() {
-    try {
-        const kaizen = document.querySelector("kaizen-header");
-        if (!kaizen?.shadowRoot) return null;
-
-        const saldoEl = kaizen.shadowRoot.querySelector("div.tw-font-bold.tw-text-sem-color-text-absolute-white.tw-mr-xs.tw-whitespace-nowrap");
-        return saldoEl?.innerText.trim() || null;
-    } catch (erro) {
-        console.error("[ERRO] Captura de saldo falhou:", erro);
-        return null;
-    }
-}
-
 window.addEventListener("load", () => {
     console.log("[INFO] Rastreador ativo em:", window.location.href);
 
@@ -30,31 +17,36 @@ window.addEventListener("load", () => {
         if (!contemPalavraChave(texto)) return;
 
         setTimeout(() => {
-            const saldo = buscarSaldo();
-
             const oddEl = document.querySelector('[data-qa="bet-odds-value"]');
             const odd = oddEl ? parseFloat(oddEl.innerText.replace(",", ".").trim()) : null;
 
             const timeEl = document.querySelector('[data-qa="selection-label"]');
             const time = timeEl ? timeEl.innerText.trim() : null;
-                
+
+            const valor = texto.trim();
+
             const evento = {
-                Executado: "Aposta Feita",
-                valorAposta: texto.trim(),
-                SaldoAtt: saldo,
-                url: window.location.href,
-                timeApostado: time,
-                oddSelecionada: odd
+                time: time,
+                valor_aposta: parseFloat(valor.replace(/[^\d,.-]/g, "").replace(",", ".")) || null,
+                odd: odd
             };
 
             fetch(API_BACKEND, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(evento)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.alerta === true) {
+                    alert("ALERTA: Cuidado, está arriscando-se DEMAIS!");
+                }
+            })
+            .catch(err => {
+                console.error("[ERRO] Falha ao enviar dados para o backend:", err);
             });
 
-            console.log("[INFO] Evento registrado:", evento);
+            console.log("[INFO] Evento enviado ao backend:", evento);
         }, TEMPO_ATUALIZACAO_SALDO_MS);
-
     });
 });

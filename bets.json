@@ -1,0 +1,2072 @@
+[
+    {
+        "time": "Flamengo",
+        "valor_aposta": 18.53,
+        "odd": 1.68,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 5.26,
+        "odd": 3.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 25.18,
+        "odd": 5.82,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 8.91,
+        "odd": 1.85,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 55.75,
+        "odd": 15.33,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 12.33,
+        "odd": 2.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 7.8,
+        "odd": 1.44,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 4.67,
+        "odd": 2.11,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 11.05,
+        "odd": 4.3,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 33.47,
+        "odd": 1.25,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 9.5,
+        "odd": 3.15,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 21.0,
+        "odd": 8.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 15.5,
+        "odd": 2.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 5.0,
+        "odd": 1.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 40.1,
+        "odd": 1.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 7.2,
+        "odd": 4.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 2.5,
+        "odd": 6.2,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 10.0,
+        "odd": 2.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 30.0,
+        "odd": 11.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 6.8,
+        "odd": 3.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 14.2,
+        "odd": 1.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 9.9,
+        "odd": 1.75,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 19.8,
+        "odd": 2.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 50.0,
+        "odd": 1.15,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 3.2,
+        "odd": 1.95,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 11.5,
+        "odd": 3.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 18.2,
+        "odd": 4.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 22.0,
+        "odd": 2.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 4.5,
+        "odd": 9.2,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 9.1,
+        "odd": 2.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 5.5,
+        "odd": 1.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 13.8,
+        "odd": 1.55,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 25.0,
+        "odd": 2.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 10.0,
+        "odd": 1.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 7.7,
+        "odd": 3.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 12.1,
+        "odd": 7.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 16.9,
+        "odd": 2.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 8.3,
+        "odd": 2.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 28.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 6.5,
+        "odd": 5.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 3.0,
+        "odd": 5.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 14.8,
+        "odd": 2.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 22.5,
+        "odd": 10.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 11.2,
+        "odd": 3.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 4.0,
+        "odd": 1.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 16.4,
+        "odd": 1.65,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 14.5,
+        "odd": 3.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 35.0,
+        "odd": 1.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 9.3,
+        "odd": 1.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 13.0,
+        "odd": 3.6,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 6.7,
+        "odd": 4.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 19.5,
+        "odd": 2.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 17.2,
+        "odd": 8.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 8.0,
+        "odd": 3.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 11.9,
+        "odd": 1.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 7.5,
+        "odd": 1.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 22.0,
+        "odd": 2.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 28.0,
+        "odd": 1.35,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 6.2,
+        "odd": 3.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 14.6,
+        "odd": 6.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 11.8,
+        "odd": 3.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 9.7,
+        "odd": 2.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 33.0,
+        "odd": 1.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 8.8,
+        "odd": 4.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 4.2,
+        "odd": 5.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 16.5,
+        "odd": 2.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 25.0,
+        "odd": 12.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 10.5,
+        "odd": 3.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 6.3,
+        "odd": 1.85,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 18.0,
+        "odd": 1.6,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 17.0,
+        "odd": 2.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 45.0,
+        "odd": 1.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 5.6,
+        "odd": 2.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 10.2,
+        "odd": 4.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 11.1,
+        "odd": 4.4,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 25.5,
+        "odd": 2.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 8.8,
+        "odd": 8.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 13.0,
+        "odd": 3.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 9.2,
+        "odd": 1.75,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 4.9,
+        "odd": 2.05,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 28.0,
+        "odd": 2.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 15.0,
+        "odd": 1.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 9.0,
+        "odd": 3.3,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 10.0,
+        "odd": 8.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 20.0,
+        "odd": 2.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 7.0,
+        "odd": 2.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 45.0,
+        "odd": 1.25,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 5.8,
+        "odd": 5.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 2.0,
+        "odd": 6.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 12.5,
+        "odd": 2.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 35.0,
+        "odd": 13.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 7.5,
+        "odd": 3.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 15.0,
+        "odd": 1.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 11.0,
+        "odd": 1.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 13.5,
+        "odd": 3.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 60.0,
+        "odd": 1.05,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 7.0,
+        "odd": 1.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 15.0,
+        "odd": 3.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 21.0,
+        "odd": 3.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 18.0,
+        "odd": 2.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 11.0,
+        "odd": 7.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 9.8,
+        "odd": 3.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 8.5,
+        "odd": 1.95,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 6.0,
+        "odd": 2.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 30.0,
+        "odd": 2.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 20.0,
+        "odd": 1.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 5.0,
+        "odd": 4.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 16.0,
+        "odd": 6.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 14.0,
+        "odd": 3.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 10.0,
+        "odd": 2.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 22.0,
+        "odd": 1.55,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 9.5,
+        "odd": 4.7,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 3.8,
+        "odd": 5.3,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 15.0,
+        "odd": 2.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 28.0,
+        "odd": 9.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 12.0,
+        "odd": 3.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 10.8,
+        "odd": 1.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 14.0,
+        "odd": 1.7,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 16.0,
+        "odd": 3.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 25.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 15.0,
+        "odd": 1.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 20.0,
+        "odd": 3.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 5.0,
+        "odd": 5.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 8.0,
+        "odd": 2.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 40.0,
+        "odd": 14.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 14.0,
+        "odd": 2.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 6.0,
+        "odd": 2.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 9.0,
+        "odd": 1.85,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 18.0,
+        "odd": 2.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 30.0,
+        "odd": 1.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 11.0,
+        "odd": 3.6,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 13.0,
+        "odd": 7.2,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 18.0,
+        "odd": 2.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 6.5,
+        "odd": 2.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 38.0,
+        "odd": 1.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 7.8,
+        "odd": 5.3,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 2.8,
+        "odd": 6.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 13.0,
+        "odd": 2.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 20.0,
+        "odd": 11.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 8.2,
+        "odd": 3.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 13.5,
+        "odd": 1.65,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 12.0,
+        "odd": 1.75,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 24.0,
+        "odd": 2.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 55.0,
+        "odd": 1.08,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 4.0,
+        "odd": 2.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 17.0,
+        "odd": 3.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 30.0,
+        "odd": 3.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 20.0,
+        "odd": 3.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 10.0,
+        "odd": 7.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 11.0,
+        "odd": 3.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 7.0,
+        "odd": 2.05,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 8.0,
+        "odd": 1.95,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 32.0,
+        "odd": 2.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 18.0,
+        "odd": 1.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 4.5,
+        "odd": 4.2,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 17.5,
+        "odd": 5.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 13.0,
+        "odd": 3.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 11.5,
+        "odd": 2.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 26.0,
+        "odd": 1.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 11.0,
+        "odd": 4.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 4.8,
+        "odd": 5.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 17.0,
+        "odd": 2.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 26.0,
+        "odd": 10.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 13.8,
+        "odd": 3.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 12.5,
+        "odd": 1.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 10.0,
+        "odd": 1.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 15.5,
+        "odd": 3.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 22.0,
+        "odd": 1.55,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 19.0,
+        "odd": 1.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 22.0,
+        "odd": 3.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 7.0,
+        "odd": 4.6,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 6.5,
+        "odd": 3.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 45.0,
+        "odd": 15.0,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 15.8,
+        "odd": 2.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 5.2,
+        "odd": 2.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 7.2,
+        "odd": 2.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 20.0,
+        "odd": 2.6,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 40.0,
+        "odd": 1.18,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 13.2,
+        "odd": 3.4,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 11.5,
+        "odd": 7.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 22.0,
+        "odd": 2.7,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 8.0,
+        "odd": 2.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 30.0,
+        "odd": 1.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 489.34,
+        "odd": 1.47,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 315.11,
+        "odd": 1.88,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 189.47,
+        "odd": 8.81,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 18.19,
+        "odd": 2.21,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 33.01,
+        "odd": 1.33,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 145.2,
+        "odd": 12.01,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 34.9,
+        "odd": 1.98,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 132.81,
+        "odd": 4.48,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 25.43,
+        "odd": 3.48,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 27.17,
+        "odd": 14.53,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 66.19,
+        "odd": 10.51,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 35.53,
+        "odd": 1.81,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 121.03,
+        "odd": 2.83,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 421.89,
+        "odd": 2.05,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 45.2,
+        "odd": 1.55,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 78.21,
+        "odd": 5.21,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 41.48,
+        "odd": 9.88,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 288.4,
+        "odd": 1.76,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 15.77,
+        "odd": 11.23,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 21.9,
+        "odd": 1.21,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 18.45,
+        "odd": 1.67,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 38.19,
+        "odd": 4.25,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 99.33,
+        "odd": 7.44,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 7.34,
+        "odd": 1.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 12.75,
+        "odd": 2.15,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 301.9,
+        "odd": 2.41,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 22.11,
+        "odd": 10.91,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 65.31,
+        "odd": 2.53,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 15.28,
+        "odd": 1.38,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 44.91,
+        "odd": 6.75,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 355.01,
+        "odd": 1.99,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 23.67,
+        "odd": 8.02,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 9.99,
+        "odd": 1.51,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 177.49,
+        "odd": 3.12,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 499.21,
+        "odd": 1.32,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 19.34,
+        "odd": 2.44,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 29.98,
+        "odd": 1.78,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 8.21,
+        "odd": 1.62,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 38.82,
+        "odd": 9.05,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 88.1,
+        "odd": 6.89,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 11.53,
+        "odd": 1.28,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 46.12,
+        "odd": 3.99,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 277.15,
+        "odd": 2.11,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 17.89,
+        "odd": 7.55,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 10.25,
+        "odd": 1.87,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 25.87,
+        "odd": 1.15,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 45.15,
+        "odd": 13.05,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 30.33,
+        "odd": 2.35,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 72.43,
+        "odd": 8.41,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 550.7,
+        "odd": 1.95,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 1550.0,
+        "odd": 1.25,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 25.5,
+        "odd": 8.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 2500.0,
+        "odd": 1.4,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 10.0,
+        "odd": 12.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 8500.0,
+        "odd": 1.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 15.2,
+        "odd": 7.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 950.0,
+        "odd": 1.9,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 12.7,
+        "odd": 9.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 4500.0,
+        "odd": 1.33,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 22.4,
+        "odd": 6.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 10000.0,
+        "odd": 1.05,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 18.9,
+        "odd": 10.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 3200.0,
+        "odd": 1.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 8.5,
+        "odd": 15.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 750.0,
+        "odd": 2.1,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 13.8,
+        "odd": 11.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 15000.0,
+        "odd": 1.15,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 28.0,
+        "odd": 5.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 1250.0,
+        "odd": 1.6,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 17.5,
+        "odd": 14.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 25000.0,
+        "odd": 1.08,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 9.8,
+        "odd": 8.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 990.0,
+        "odd": 1.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 14.1,
+        "odd": 13.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 5500.0,
+        "odd": 1.22,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 21.6,
+        "odd": 7.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 1800.0,
+        "odd": 1.45,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 16.2,
+        "odd": 9.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 35000.0,
+        "odd": 1.02,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 5.0,
+        "odd": 18.0,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 880.0,
+        "odd": 1.7,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 11.1,
+        "odd": 16.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 4200.0,
+        "odd": 1.28,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 24.0,
+        "odd": 6.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 1100.0,
+        "odd": 1.55,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 19.9,
+        "odd": 10.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 30000.0,
+        "odd": 1.11,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 7.2,
+        "odd": 12.9,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 2100.0,
+        "odd": 1.36,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 13.3,
+        "odd": 8.8,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 35.5,
+        "odd": 14.8,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 175.0,
+        "odd": 1.22,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 22.0,
+        "odd": 18.5,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 95.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 250.0,
+        "odd": 1.18,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 400.0,
+        "odd": 1.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 180.0,
+        "odd": 1.45,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 350.0,
+        "odd": 1.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 600.0,
+        "odd": 1.35,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 220.0,
+        "odd": 1.28,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Internacional",
+        "valor_aposta": 750.0,
+        "odd": 1.15,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Cruzeiro",
+        "valor_aposta": 300.0,
+        "odd": 1.4,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Atlético Mineiro",
+        "valor_aposta": 900.0,
+        "odd": 1.25,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Santos",
+        "valor_aposta": 550.0,
+        "odd": 1.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Botafogo",
+        "valor_aposta": 1200.0,
+        "odd": 1.2,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Fluminense",
+        "valor_aposta": 280.0,
+        "odd": 1.5,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Bahia",
+        "valor_aposta": 450.0,
+        "odd": 1.1,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Athletico Paranaense",
+        "valor_aposta": 850.0,
+        "odd": 1.42,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Flamengo",
+        "valor_aposta": 1500.0,
+        "odd": 1.3,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Palmeiras",
+        "valor_aposta": 210.0,
+        "odd": 1.29,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Corinthians",
+        "valor_aposta": 380.0,
+        "odd": 1.19,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Sao Paulo",
+        "valor_aposta": 1100.0,
+        "odd": 1.24,
+        "aposta_fast": 0
+    },
+    {
+        "time": "Vasco da Gama",
+        "valor_aposta": 3000.0,
+        "odd": 1.2,
+        "aposta_fast": 1
+    },
+    {
+        "time": "Gremio",
+        "valor_aposta": 4000.0,
+        "odd": 1.1,
+        "aposta_fast": 1
+    }
+]
