@@ -1,40 +1,110 @@
-Bets User Tracker
- - Sistema para rastreamento de ações de usuários dentro da plataforma Betano, com foco em registro de apostas e captura do saldo pós-aposta.
+Projeto DataBets
 
-Funcionalidades
- - Rastreia cliques no botão "Apostar"
- - Captura o saldo atualizado após a aposta diretamente do DOM
- - Salva os dados localmente em logs/registros.json
- - Estrutura modular com back-end em Flask e front-end em extensão Chrome
+Este projeto rastreia apostas realizadas no site da Betano, registra as informações localmente e utiliza um modelo de Machine Learning para identificar apostas "arriscadas". Caso a aposta seja classificada como de risco, o sistema emite um alerta em tempo real no navegador do usuário.
 
-Como executar
- - 1. Clone o projeto
-   git clone https://github.com/haruoooo/databets
-   cd databets
+---
+
+Tecnologias Utilizadas
+
+- Python 3.10+
+- Flask + Flask-CORS
+- pandas, numpy, scikit-learn
+- Random Forest Classifier
+- Extensão Chrome (JavaScript)
+- JSON para persistência local
+
+---
+
+Estrutura do Projeto
+
+bets/
+├── backend/
+│ ├── server.py # Servidor Flask que recebe dados e chama o ML
+│ └── ml.py # Script que classifica se a aposta é arriscada
+├── frontend/
+│ ├── content.js # Captura cliques e extrai dados do site da Betano
+│ └── manifest.json # Arquivo da extensão do Chrome
+├── logs/
+│ └── registros.json # Registro das apostas feitas
+├── bets.json # Dataset usado para treinar o modelo de ML
+├── main.py # Inicia o servidor
+├── requirements.txt # Lista de dependências Python
+└── .gitignore
+
+---
+
+Como Executar
+
+1. Clone o repositório.
+2. Crie e ative um ambiente virtual (opcional, mas recomendado).
+"python -m venv venv
+venv\Scripts\activate   
+source venv/bin/activate"
+3. Instale as dependências
+ - pip install -r requirements.txt
+4. Execute o sistema
+ - python main.py
+
+---
+
+Instalando a Extensão no Chrome
  
- - 2. Crie e ative o ambiente virtual
-   python -m venv venv
-   .\venv\Scripts\activate  # Para Windows
-
- - 3. Instale as dependências
-   pip install -r requirements.txt
-
- - 4. Rode o servidor Flask
-   python main.py
-
-Como usar a extensão
- - Acesse chrome://extensions/ no navegador Google Chrome
- - Ative o Modo de Desenvolvedor
+ - Vá para chrome://extensions
+ - Ative o Modo do Desenvolvedor
  - Clique em "Carregar sem compactação"
- - Selecione a pasta frontend/ do projeto
+ - Selecione a pasta frontend/
 
-Tecnologias utilizadas
- - Python + Flask
- - JavaScript (DOM, ShadowRoot)
- - Extensões do Chrome
- - JSON local
+---
 
-Aviso Legal
- - Este projeto tem fins educacionais e de prototipação técnica.
- - Não é destinado a automações que violem os termos de uso de qualquer plataforma de apostas.
+Como Funciona
+ - O arquivo content.js escuta cliques em botões de aposta no site da Betano.
+ - Ao detectar uma aposta, ele extrai:
+   - time apostado
+   - odd da aposta
+   - valor clicado
+ - Envia via POST para http://localhost:5000/clique
+ - O backend salva em logs/registros.json e executa ml.py
+ - Se a previsão for 1 (aposta arriscada), um alerta é exibido no navegador.
 
+---
+
+Machine Learning
+ - Treinado com o dataset bets.json
+ - Usa RandomForestClassifier
+ - Entrada: time, valor_aposta, odd
+ - Atributos tratados com:
+   - One-hot encoding (time)
+   - Log-transform (valor_aposta)
+
+---
+
+Exemplo de JSON registrado
+
+{
+  "time": "Palmeiras",
+  "valor_aposta": 1,
+  "odd": 2.52
+}
+
+---
+
+Alerta Visual
+
+ - Caso a aposta seja classificada como arriscada (1), um alert() é disparado no navegador para o usuário.
+
+---
+
+Observações
+ 
+ - A comunicação entre JS e Python roda localmente via localhost:5000.
+ - O sistema só classifica a última aposta registrada.
+ - O dataset bets.json precisa estar bem treinado com apostas reais para boa acurácia.
+
+---
+
+Melhorias Futuras
+
+ - Re-treinamento automático do modelo com novas apostas.
+ - Painel de visualização das apostas.
+ - Deploy do servidor Flask em nuvem (Heroku, Render, etc).
+ - Bloqueio das apostas para usuários com muitos "riscos".
